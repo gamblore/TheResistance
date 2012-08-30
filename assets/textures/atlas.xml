@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4bb25183e766aeefd090b1bedad806e9$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="failure" x="79" y="2" width="75" height="84"/>
+    <SubTexture name="resistance" x="2" y="88" width="166" height="303"/>
+    <SubTexture name="spy" x="2" y="393" width="201" height="205"/>
+    <SubTexture name="success" x="2" y="2" width="75" height="84"/>
+</TextureAtlas>
