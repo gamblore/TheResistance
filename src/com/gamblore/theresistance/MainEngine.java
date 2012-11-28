@@ -5,7 +5,6 @@ import java.util.Map;
 
 import net.androidpunk.Engine;
 import net.androidpunk.FP;
-import net.androidpunk.R;
 import net.androidpunk.Sfx;
 import net.androidpunk.graphics.opengl.Atlas;
 import net.androidpunk.graphics.opengl.TextAtlas;
